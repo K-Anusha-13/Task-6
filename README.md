@@ -4,6 +4,8 @@
 
 To develop proficiency in writing SQL subqueries in various clauses (`SELECT`, `WHERE`, `FROM`) and understand scalar, correlated, and nested query structures.
 
+---
+
 🧰 **Tools Used:**
 
 - MySQL Workbench
